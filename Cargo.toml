@@ -1,0 +1,8 @@
+[package]
+name = "fractal"
+version = "0.1.0"
+authors = ["etok414 <etok414@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.10.0"
